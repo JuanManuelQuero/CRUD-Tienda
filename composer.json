@@ -1,0 +1,21 @@
+{
+    "name": "juanm/cru-dtienda",
+    "description": "CRUD a la tabla articulos",
+    "type": "project",
+    "license": "GNU/GPL",
+    "authors": [
+        {
+            "name": "juanma",
+            "email": "juanma@gmail.com"
+        }
+    ],
+    "config": {
+        "optimize-autoloader": true
+    },
+    "autoload": {
+        "psr-4": {
+            "Clases\\": "clases"
+        }
+    },
+    "require": {}
+}
